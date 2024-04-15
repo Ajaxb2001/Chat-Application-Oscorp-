@@ -1,5 +1,3 @@
-Summary:
-
 The real-time chat application built using Node.js leverages the power of JavaScript on both the client and server sides to create a seamless communication experience. Here's an overview of its key components and functionality:
 
 1. **Node.js**: The application utilizes Node.js as its runtime environment, enabling the execution of JavaScript code on the server side.
